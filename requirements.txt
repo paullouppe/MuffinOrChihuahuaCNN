@@ -1,0 +1,13 @@
+jupyter
+matplotlib
+scikit_learn
+spacy
+datasets
+soundfile
+
+# If you have a GPU and want to use it, comment the following line to install nvidia / cuda packages (takes 2~3 Gb extra space)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+torchtext
