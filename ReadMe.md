@@ -16,9 +16,6 @@ The dataset used is sourced from Kaggle: [Muffin vs. Chihuahua Image Classificat
 
 ```
 ├── dataset/
-│   ├── train/
-│   ├── val/
-│   └── test/
 ├── models/
 ├── notebooks/
 ├── results/
@@ -57,6 +54,6 @@ pip install -r requirements.txt
 
     Test Accuracy: ___%
     Confusion Matrix: Available in results/confusion_matrix.png.
-    Confusion examples : 
+    Confusion examples : Available in results/confusion_examples/
 
 ## Project Highlights
